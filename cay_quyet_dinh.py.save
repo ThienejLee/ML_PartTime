@@ -1,9 +1,0 @@
-dactrung = [[1, 'tb', 'tb', 'nhieu'],
-            ['nang','thap', 'cao', 'it'],
-	    ['nhe', 'thap', 'cao', 'it'],
-            ['nang', 'cao', 'cao', 'tb'],
-            ['nhe', 'cao', 'cao', 'nhieu'],
-            [ 'tb', 'thap', 'tb', 'nhieu'],
-            ['tb', 'tb', 'tb', 'it'],
-            ['nang', 'thap', 'thap', 'nhieu']
-            ]
